@@ -1,0 +1,34 @@
+body {
+color: white;
+background: purple;
+font-family: "Kanit", sans-serif;
+
+}
+header{
+border-bottom: solid 2px rgb(243, 237, 248);
+padding: 20px;
+font-size: 32px;
+
+
+}
+
+section {
+   background: rgb(197, 128, 232);
+   padding-bottom: 80px;
+   padding-top:80px;
+   display: flex;
+   justify-content: center;
+
+}
+
+img {
+   height: 200px;
+}
+
+.chamada-texto {
+ margin-right: 5%;
+ display:
+overflow-x: auto; 
+gap: 20px;
+}
+
